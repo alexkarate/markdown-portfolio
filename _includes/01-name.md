@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Учимся с гитхаб
+## ПГНИУ
+###### Паскар Алексей ПМИ-2-2019

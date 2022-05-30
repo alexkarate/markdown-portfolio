@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My __attributes__ are:
+My **Big** _Fat_ _**EGO**_
+
+My favourite language:
+*C++* **B*ABY*Y**
